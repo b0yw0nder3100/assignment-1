@@ -1,0 +1,10 @@
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Word Counter\WindowsFormsApp1Word Counter\bin\Debug\WindowsFormsApp1Word Counter.exe.config
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Word Counter\WindowsFormsApp1Word Counter\bin\Debug\WindowsFormsApp1Word Counter.exe
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Word Counter\WindowsFormsApp1Word Counter\bin\Debug\WindowsFormsApp1Word Counter.pdb
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Word Counter\WindowsFormsApp1Word Counter\obj\Debug\WindowsFormsApp1Word Counter.csprojAssemblyReference.cache
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Word Counter\WindowsFormsApp1Word Counter\obj\Debug\WindowsFormsApp1Word_Counter.Form1.resources
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Word Counter\WindowsFormsApp1Word Counter\obj\Debug\WindowsFormsApp1Word_Counter.Properties.Resources.resources
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Word Counter\WindowsFormsApp1Word Counter\obj\Debug\WindowsFormsApp1Word Counter.csproj.GenerateResource.cache
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Word Counter\WindowsFormsApp1Word Counter\obj\Debug\WindowsFormsApp1Word Counter.csproj.CoreCompileInputs.cache
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Word Counter\WindowsFormsApp1Word Counter\obj\Debug\WindowsFormsApp1Word Counter.exe
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Word Counter\WindowsFormsApp1Word Counter\obj\Debug\WindowsFormsApp1Word Counter.pdb
