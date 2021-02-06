@@ -1,0 +1,10 @@
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Date and Time\WindowsFormsApp1Date and Time\bin\Debug\WindowsFormsApp1Date and Time.exe.config
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Date and Time\WindowsFormsApp1Date and Time\bin\Debug\WindowsFormsApp1Date and Time.exe
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Date and Time\WindowsFormsApp1Date and Time\bin\Debug\WindowsFormsApp1Date and Time.pdb
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Date and Time\WindowsFormsApp1Date and Time\obj\Debug\WindowsFormsApp1Date and Time.csprojAssemblyReference.cache
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Date and Time\WindowsFormsApp1Date and Time\obj\Debug\WindowsFormsApp1Date_and_Time.Form1.resources
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Date and Time\WindowsFormsApp1Date and Time\obj\Debug\WindowsFormsApp1Date_and_Time.Properties.Resources.resources
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Date and Time\WindowsFormsApp1Date and Time\obj\Debug\WindowsFormsApp1Date and Time.csproj.GenerateResource.cache
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Date and Time\WindowsFormsApp1Date and Time\obj\Debug\WindowsFormsApp1Date and Time.csproj.CoreCompileInputs.cache
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Date and Time\WindowsFormsApp1Date and Time\obj\Debug\WindowsFormsApp1Date and Time.exe
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Date and Time\WindowsFormsApp1Date and Time\obj\Debug\WindowsFormsApp1Date and Time.pdb
