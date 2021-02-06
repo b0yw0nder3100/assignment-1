@@ -1,0 +1,10 @@
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1bmi\WindowsFormsApp1bmi\bin\Debug\WindowsFormsApp1bmi.exe.config
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1bmi\WindowsFormsApp1bmi\bin\Debug\WindowsFormsApp1bmi.exe
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1bmi\WindowsFormsApp1bmi\bin\Debug\WindowsFormsApp1bmi.pdb
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1bmi\WindowsFormsApp1bmi\obj\Debug\WindowsFormsApp1bmi.Properties.Resources.resources
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1bmi\WindowsFormsApp1bmi\obj\Debug\WindowsFormsApp1bmi.csproj.GenerateResource.cache
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1bmi\WindowsFormsApp1bmi\obj\Debug\WindowsFormsApp1bmi.csproj.CoreCompileInputs.cache
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1bmi\WindowsFormsApp1bmi\obj\Debug\WindowsFormsApp1bmi.exe
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1bmi\WindowsFormsApp1bmi\obj\Debug\WindowsFormsApp1bmi.pdb
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1bmi\WindowsFormsApp1bmi\obj\Debug\WindowsFormsApp1bmi.Form1.resources
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1bmi\WindowsFormsApp1bmi\obj\Debug\WindowsFormsApp1bmi.csprojAssemblyReference.cache
