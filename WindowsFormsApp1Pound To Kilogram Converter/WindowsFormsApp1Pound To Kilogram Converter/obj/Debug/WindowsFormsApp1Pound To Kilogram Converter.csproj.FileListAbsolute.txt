@@ -1,0 +1,10 @@
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Pound To Kilogram Converter\WindowsFormsApp1Pound To Kilogram Converter\bin\Debug\WindowsFormsApp1Pound To Kilogram Converter.exe.config
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Pound To Kilogram Converter\WindowsFormsApp1Pound To Kilogram Converter\bin\Debug\WindowsFormsApp1Pound To Kilogram Converter.exe
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Pound To Kilogram Converter\WindowsFormsApp1Pound To Kilogram Converter\bin\Debug\WindowsFormsApp1Pound To Kilogram Converter.pdb
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Pound To Kilogram Converter\WindowsFormsApp1Pound To Kilogram Converter\obj\Debug\WindowsFormsApp1Pound To Kilogram Converter.csprojAssemblyReference.cache
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Pound To Kilogram Converter\WindowsFormsApp1Pound To Kilogram Converter\obj\Debug\WindowsFormsApp1Pound_To_Kilogram_Converter.Form1.resources
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Pound To Kilogram Converter\WindowsFormsApp1Pound To Kilogram Converter\obj\Debug\WindowsFormsApp1Pound_To_Kilogram_Converter.Properties.Resources.resources
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Pound To Kilogram Converter\WindowsFormsApp1Pound To Kilogram Converter\obj\Debug\WindowsFormsApp1Pound To Kilogram Converter.csproj.GenerateResource.cache
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Pound To Kilogram Converter\WindowsFormsApp1Pound To Kilogram Converter\obj\Debug\WindowsFormsApp1Pound To Kilogram Converter.csproj.CoreCompileInputs.cache
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Pound To Kilogram Converter\WindowsFormsApp1Pound To Kilogram Converter\obj\Debug\WindowsFormsApp1Pound To Kilogram Converter.exe
+C:\Users\Martins Ikpe\source\repos\WindowsFormsApp1Pound To Kilogram Converter\WindowsFormsApp1Pound To Kilogram Converter\obj\Debug\WindowsFormsApp1Pound To Kilogram Converter.pdb
